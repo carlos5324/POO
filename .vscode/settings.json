@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Juan Carlos Cuadrado\\Downloads\\biblioteca11.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
