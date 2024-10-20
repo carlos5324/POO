@@ -3,7 +3,7 @@ public class Modelos {
     String nombre,apellidos;
     int PP;
 
-    public Modelos(String nombre, String apellidos, int PP){
+    public Modelos(String nombre, String apellidos,int PP){
         this.PP=PP;
         this.nombre=nombre;
         this.apellidos=apellidos;
